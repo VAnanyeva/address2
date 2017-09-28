@@ -1,0 +1,5 @@
+com/ananyeva/springextjs/viewmodel/SingleAddressResponse.class
+com/ananyeva/springextjs/controllers/AddressController.class
+com/ananyeva/springextjs/config/Config.class
+com/ananyeva/springextjs/viewmodel/Address.class
+com/ananyeva/springextjs/viewmodel/ManyAddressResponse.class
